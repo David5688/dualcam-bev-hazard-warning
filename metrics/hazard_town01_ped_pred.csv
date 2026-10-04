@@ -1,0 +1,9 @@
+frame,track,class,dir,range_m,ttc_s,closing_mps,level
+000456.png,1,veh,front,5.6,inf,0.00,DANGER
+000456.png,2,ped,rear,10.6,inf,0.00,CAUTION
+000457.png,2,ped,rear,10.8,inf,-1.89,CAUTION
+000458.png,2,ped,rear,11.1,inf,-2.57,CAUTION
+000460.png,3,veh,front,10.2,inf,0.00,CAUTION
+000461.png,3,ped,front,9.3,1.03,9.03,DANGER
+000462.png,3,veh,front,9.1,1.63,5.58,DANGER
+000463.png,3,veh,front,9.2,2.88,3.19,CAUTION

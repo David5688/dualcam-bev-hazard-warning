@@ -1,0 +1,15 @@
+This repository contains original code and trained model weights released under
+the MIT License (see LICENSE). It depends on the following third-party
+components, each used under its own license:
+
+- PyTorch, torchvision (BSD-3-Clause). ResNet-18 / ResNet-50 ImageNet weights and
+  Faster R-CNN COCO weights are distributed by torchvision under BSD-3-Clause.
+- OpenCV (Apache-2.0)
+- NumPy (BSD-3-Clause)
+- ONNX Runtime (MIT); NVIDIA TensorRT (NVIDIA proprietary license, not redistributed)
+- CARLA Simulator 0.9.16 (MIT; assets under CC-BY), used only to generate training data
+- ROS 2 Humble and rosbag2 (Apache-2.0); RF2O laser odometry (BSD)
+- Intel RealSense SDK (Apache-2.0); Orbbec SDK (Orbbec license, not redistributed)
+
+The BEV depth-distribution projection follows the Lift-Splat-Shoot formulation
+(Philion & Fidler, ECCV 2020); the implementation in this repository is our own.

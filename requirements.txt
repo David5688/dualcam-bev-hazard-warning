@@ -1,0 +1,8 @@
+torch>=2.1
+torchvision>=0.16
+numpy>=1.24
+opencv-python>=4.8
+onnxruntime-gpu>=1.16
+carla==0.9.16 ; python_version < "3.11"
+pyyaml
+tqdm

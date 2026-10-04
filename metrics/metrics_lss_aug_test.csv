@@ -1,0 +1,10 @@
+class,IoU
+background,0.831784
+vehicle,0.271483
+pedestrian,0.000000
+road,0.770191
+sidewalk,0.766506
+lane_marking,0.193305
+mIoU,0.472211
+PixelAcc,0.877965
+num_samples,200

@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+data/
+results/
+checkpoints/
+*.pt
+*.pth
+*.onnx
+*.engine
+*.db3
+*.mp4
+logs/
